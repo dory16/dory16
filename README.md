@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋  
+# Hey, I'm Dory 👋  
 
 ## 🛠️ Building, Breaking, and Brewing  <br/>
 Software Engineer | Game Dev Explorer | Coffee Alchemist ☕  
